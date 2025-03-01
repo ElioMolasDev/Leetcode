@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ElioMolasDev/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2551-apply-operations-to-an-array](https://github.com/ElioMolasDev/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ElioMolasDev/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/ElioMolasDev/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/ElioMolasDev/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->

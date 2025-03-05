@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ElioMolasDev/Leetcode/tree/master/0009-palindrome-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ElioMolasDev/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Array
 |  |
 | ------- |

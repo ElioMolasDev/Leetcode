@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ElioMolasDev/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ElioMolasDev/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ElioMolasDev/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ElioMolasDev/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->

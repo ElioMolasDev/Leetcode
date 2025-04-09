@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ElioMolasDev/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ElioMolasDev/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ElioMolasDev/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ElioMolasDev/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ElioMolasDev/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ElioMolasDev/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |

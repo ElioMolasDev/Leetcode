@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ElioMolasDev/Leetcode/tree/master/0009-palindrome-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ElioMolasDev/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/ElioMolasDev/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ElioMolasDev/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Array
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ElioMolasDev/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/ElioMolasDev/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->

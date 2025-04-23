@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ElioMolasDev/Leetcode/tree/master/0009-palindrome-number) |
+| [1500-count-largest-group](https://github.com/ElioMolasDev/Leetcode/tree/master/1500-count-largest-group) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ElioMolasDev/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/ElioMolasDev/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ElioMolasDev/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ElioMolasDev/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1500-count-largest-group](https://github.com/ElioMolasDev/Leetcode/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ElioMolasDev/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ElioMolasDev/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |

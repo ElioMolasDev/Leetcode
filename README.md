@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ElioMolasDev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ElioMolasDev/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ElioMolasDev/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ElioMolasDev/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/ElioMolasDev/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ElioMolasDev/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ElioMolasDev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ElioMolasDev/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2048-build-array-from-permutation](https://github.com/ElioMolasDev/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ElioMolasDev/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ElioMolasDev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ElioMolasDev/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ElioMolasDev/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ElioMolasDev/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
